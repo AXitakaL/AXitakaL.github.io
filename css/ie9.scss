@@ -136,3 +136,24 @@
 			}
 		}
 	}
+/* Gallery */
+
+	.gallery {
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+
+		article {
+			float: left;
+		}
+	}
+
+/* Poptrox */
+
+	.poptrox-popup {
+		.loader {
+			display: none !important;
+		}
+	}

@@ -86,3 +86,15 @@
   #main > header > * {
     position: relative;
     z-index: 1; }
+
+/* Gallery */
+.gallery:after {
+  content: '';
+  display: block;
+  clear: both; }
+.gallery article {
+  float: left; }
+
+/* Poptrox */
+.poptrox-popup .loader {
+  display: none !important; }
