@@ -6,9 +6,9 @@ layout: landing
 						<div class="inner">
 							<h2>{{ site.title }}</h2>
 							<p>{{ site.description | markdownify }}</p>
-							<!-- <ul class="actions">
-								<li><a href="#" class="button special">Activate</a></li>
-							</ul> -->
+							<ul class="actions">
+								<li><a href="/main.html" class="button special">相册</a></li>
+							</ul>
 						</div>
 						<a href="#one" class="more scrolly">Let's See More</a>
 					</section>
@@ -54,7 +54,19 @@ layout: landing
 							</div>
 						</section>
 					</section>
-					
+					<section class="carousel">
+						<div class="reel">
+							{% for post in site.posts %}
+								<article>
+									<a href="{{ site.url }}{{ post.url }}" class="image featured"><img src="{{post.image}}" alt="" /></a>
+									<header>
+										<h3><a href="#">{{post.title}}</a></h3>
+									</header>
+									<p>{{post.subtitle}}</p>
+								</article>
+							{% endfor %}
+						</div>
+					</section>
 				<!-- Three -->
 					<!-- <section id="three" class="wrapper style3 special">
 						<div class="inner">
