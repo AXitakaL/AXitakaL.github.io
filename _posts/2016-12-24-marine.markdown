@@ -1,0 +1,37 @@
+---
+title:  "Planes are cool!"
+subtitle: "The Fly!"
+image: "http://imglf.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovNkVQSzZCQUZiZXV1YmhxNVJZbTIrTXg2US84enJTdG93PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg"
+layout : page
+date:   2015-05-20 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>My Work</h2>
+			<p>Lorem ipsum dolor sit amet et sapien sed elementum egestas dolore condimentum.
+				Fusce blandit ultrices sapien, in accumsan orci rhoncus eu. Sed sodales venenatis
+				arcu, id varius justo euismod in. Curabitur egestas consectetur magna vitae.</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="http://imglf.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovNkVQSzZCQUZiZXV1YmhxNVJZbTIrTXg2US84enJTdG93PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovNkVQSzZCQUZiZXV1YmhxNVJZbTIrTXg2US84enJTdG93PT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="first pic" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="second pic" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="second pic" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUoveTMwbzlFWWFhN3NiTTZXdFZQblhZVTFQRjVxbThSUS9BPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="second pic" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovd280T3dCWGZIWTNra09LVWxSRFpjLzJWUW45c0ZGWEVnPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovd280T3dCWGZIWTNra09LVWxSRFpjLzJWUW45c0ZGWEVnPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="third pic" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovd280T3dCWGZIWTNra09LVWxSRFpjLzJWUW45c0ZGWEVnPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" class="image fit"><img src="http://imglf0.nosdn.127.net/img/dVJXd2xBVjNKc0cwZUtxSDZIdUovd280T3dCWGZIWTNra09LVWxSRFpjLzJWUW45c0ZGWEVnPT0.jpg?imageView&thumbnail=1680x0&quality=96&stripmeta=0&type=jpg" title="third pic" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>
