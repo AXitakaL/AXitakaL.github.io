@@ -3,7 +3,7 @@ title:  "Qujing"
 subtitle: "家"
 layout : page
 image : images/2year/qujing/1.jpg
-date:   2016-07-08 12:12:12
+date:   2016-07-08 12:12:11
 ---
 <section id="work" class="main style3 primary">
 <div class="content">
