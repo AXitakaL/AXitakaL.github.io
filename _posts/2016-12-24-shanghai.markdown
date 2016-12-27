@@ -1,0 +1,93 @@
+---
+title:  "Shanghai"
+subtitle: "离别应该是相聚的开始"
+layout : page
+image : images/2year/shanghai/2.jpg
+date:   2016-07-24 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>上海</h2>
+			<p>Like a river flows surely to the sea<br>
+				Darling so it goes<br>
+				some things are meant to be<br>
+				take my hand, take my whole life too<br>
+				for I can't help falling in love with you</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/shanghai/1.jpg" class="image fit"><img src="/images/2year/shanghai/1.jpg" title="上海滩" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/2.jpg" class="image fit"><img src="/images/2year/shanghai/2.jpg" title="合影" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/3.jpg" class="image fit"><img src="/images/2year/shanghai/3.jpg" title="合影2" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/4.jpg" class="image fit"><img src="/images/2year/shanghai/4.jpg" title="好奇girl" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/5.jpg" class="image fit"><img src="/images/2year/shanghai/5.jpg" title="萌萌哒小姑娘" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/6.jpg" class="image fit"><img src="/images/2year/shanghai/6.jpg" title="聚光灯" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/7.jpg" class="image fit"><img src="/images/2year/shanghai/7.jpg" title="仰视" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/8.jpg" class="image fit"><img src="/images/2year/shanghai/8.jpg" title="带我走系列之上海" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/9.jpg" class="image fit"><img src="/images/2year/shanghai/9.jpg" title="我镜头下的你" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/10.jpg" class="image fit"><img src="/images/2year/shanghai/10.jpg" title="你镜头下的我" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/11.jpg" class="image fit"><img src="/images/2year/shanghai/11.jpg" title="安静" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/12.jpg" class="image fit"><img src="/images/2year/shanghai/12.jpg" title="萌物大集合" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/13.jpg" class="image fit"><img src="/images/2year/shanghai/13.jpg" title="萌物大集合" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/14.jpg" class="image fit"><img src="/images/2year/shanghai/14.jpg" title="拍" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/15.jpg" class="image fit"><img src="/images/2year/shanghai/15.jpg" title="萌物大集合" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/16.jpg" class="image fit"><img src="/images/2year/shanghai/16.jpg" title="帅气的背影" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/17.jpg" class="image fit"><img src="/images/2year/shanghai/17.jpg" title="生气就不鸟我" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/18.jpg" class="image fit"><img src="/images/2year/shanghai/18.jpg" title="嘟嘴" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/19.jpg" class="image fit"><img src="/images/2year/shanghai/19.jpg" title="我会珍惜你..." alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/20.jpg" class="image fit"><img src="/images/2year/shanghai/20.jpg" title="耶" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/21.jpg" class="image fit"><img src="/images/2year/shanghai/21.jpg" title="帅girl" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/22.jpg" class="image fit"><img src="/images/2year/shanghai/22.jpg" title="轻松熊" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/shanghai/23.jpg" class="image fit"><img src="/images/2year/shanghai/23.jpg" title="交叉口" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/shanghai/24.jpg" class="image fit"><img src="/images/2year/shanghai/24.jpg" title="装逼boy" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>

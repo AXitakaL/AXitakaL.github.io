@@ -1,0 +1,85 @@
+---
+title:  "Dali"
+subtitle: "苍山不墨千秋画,洱海无弦万古琴"
+layout : page
+image : images/2year/dali/1.jpg
+date:   2016-02-23 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>大理</h2>
+			<p>让我们笑得就像花儿一样 <br>
+				让我们跑得就像风儿一样 <br>
+				让我们牵着双手飞翔在这 <br>
+				美丽又寂静的村庄<br>
+				让阳光永远洒在你脸上 <br>
+				让世界忘却距离的忧伤<br>
+				让他们看着我们笑着恋着爱着<br>
+				永远幸福着
+			</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/dali/1.jpg" class="image fit"><img src="/images/2year/dali/1.jpg" title="合照" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/2.jpg" class="image fit"><img src="/images/2year/dali/2.jpg" title="什么码头来着" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/3.jpg" class="image fit"><img src="/images/2year/dali/3.jpg" title="合照" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/4.jpg" class="image fit"><img src="/images/2year/dali/4.jpg" title="我这个皮肤白的" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/5.jpg" class="image fit"><img src="/images/2year/dali/5.jpg" title="你这个表情实在是太亮了，哈哈" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/6.jpg" class="image fit"><img src="/images/2year/dali/6.jpg" title="左边那个是你，么右边就是我了" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/7.jpg" class="image fit"><img src="/images/2year/dali/7.jpg" title="某人拍的" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/8.jpg" class="image fit"><img src="/images/2year/dali/8.jpg" title="无题" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/9.jpg" class="image fit"><img src="/images/2year/dali/9.jpg" title="酷炫组合" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/10.jpg" class="image fit"><img src="/images/2year/dali/10.jpg" title="相中相" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/11.jpg" class="image fit"><img src="/images/2year/dali/11.jpg" title="这个小娃怕是要制裁你" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/12.jpg" class="image fit"><img src="/images/2year/dali/12.jpg" title="写真系列" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/13.jpg" class="image fit"><img src="/images/2year/dali/13.jpg" title="写真系列" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/14.jpg" class="image fit"><img src="/images/2year/dali/14.jpg" title="写真系列" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/15.jpg" class="image fit"><img src="/images/2year/dali/15.jpg" title="写真系列" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/16.jpg" class="image fit"><img src="/images/2year/dali/16.jpg" title="喝了那么小点烧酒脸就红彤彤的了" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/17.jpg" class="image fit"><img src="/images/2year/dali/17.jpg" title="看海" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/18.jpg" class="image fit"><img src="/images/2year/dali/18.jpg" title="看海" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/dali/19.jpg" class="image fit"><img src="/images/2year/dali/19.jpg" title="帅就一个字" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/dali/20.jpg" class="image fit"><img src="/images/2year/dali/20.jpg" title="某人拍的" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>

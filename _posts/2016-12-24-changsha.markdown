@@ -1,0 +1,43 @@
+---
+title:  "changsha"
+subtitle: "第一次拍你的地方，"
+layout : page
+image : images/2year/changsha/3.jpg
+date:   2015-01-06 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>长沙</h2>
+			<p>君のくれた日々が積み重なり <br>
+			你给予我的岁月沉淀累积<br>
+			過ぎ去った日々2人歩いた『軌跡』<br>
+			过去的日子里 印证两个人一起前行的『轨迹』<br>
+			僕らの出逢いがもし偶然ならば? <br>
+			我们的相遇或是偶然?<br>
+			運命ならば? <br>
+			亦或是命运?<br>
+			君に巡り合えた <br>
+			能够与你邂逅<br>
+			それって『奇跡』 <br>
+			那就是所谓的『奇迹』</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/changsha/1.jpg" class="image fit"><img src="/images/2year/changsha/1.jpg" title="当时第一次知道你怕毛绒绒的动物" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/changsha/2.jpg" class="image fit"><img src="/images/2year/changsha/2.jpg" title="穿过任意门" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/changsha/3.jpg" class="image fit"><img src="/images/2year/changsha/3.jpg" title="这是啥" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/changsha/4.jpg" class="image fit"><img src="/images/2year/changsha/4.jpg" title="我的房子" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/changsha/5.jpg" class="image fit"><img src="/images/2year/changsha/5.jpg" title="敖领导在城楼检阅" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>

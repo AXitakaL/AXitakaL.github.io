@@ -1,0 +1,68 @@
+---
+title:  "Nanjing"
+subtitle: "朱雀桥边野草花，乌衣巷口夕阳斜"
+layout : page
+image : images/2year/nanjing/3.jpg
+date:   2016-05-02 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>南京</h2>
+			<p>met you by surprise<br>
+				i didn't realize<br>
+				that my life would change forever<br>
+				saw you standing there<br>
+				i didn't know i'd care<br>
+				there was something special in the air<br>
+			</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/nanjing/1.jpg" class="image fit"><img src="/images/2year/nanjing/1.jpg" title="绿茵下的路人" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/2.jpg" class="image fit"><img src="/images/2year/nanjing/2.jpg" title="戒赌少年" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/3.jpg" class="image fit"><img src="/images/2year/nanjing/3.jpg" title="完美路人" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/4.jpg" class="image fit"><img src="/images/2year/nanjing/4.jpg" title="两个傻" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/5.jpg" class="image fit"><img src="/images/2year/nanjing/5.jpg" title="两个傻" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/6.jpg" class="image fit"><img src="/images/2year/nanjing/6.jpg" title="花与美女" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/7.jpg" class="image fit"><img src="/images/2year/nanjing/7.jpg" title="带我走系列" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/8.jpg" class="image fit"><img src="/images/2year/nanjing/8.jpg" title="这个手么真的是，哈哈" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/9.jpg" class="image fit"><img src="/images/2year/nanjing/9.jpg" title="~~" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/10.jpg" class="image fit"><img src="/images/2year/nanjing/10.jpg" title="回头" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/11.jpg" class="image fit"><img src="/images/2year/nanjing/11.jpg" title="一个安静的女子" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/12.jpg" class="image fit"><img src="/images/2year/nanjing/12.jpg" title="冷风 清晨" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/13.jpg" class="image fit"><img src="/images/2year/nanjing/13.jpg" title="欧耶" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/nanjing/14.jpg" class="image fit"><img src="/images/2year/nanjing/14.jpg" title="高兴" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/nanjing/15.jpg" class="image fit"><img src="/images/2year/nanjing/15.jpg" title="带我走系列" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>

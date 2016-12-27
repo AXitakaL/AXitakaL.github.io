@@ -1,0 +1,86 @@
+---
+title:  "杂"
+subtitle: "未完待续"
+layout : page
+image : images/2year/za/1.jpg
+date:   2016-12-24 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>杂</h2>
+			<p>未来还有很是多的东西一起去经历</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/za/1.jpg" class="image fit"><img src="/images/2year/za/1.jpg" title="天空之城" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/2.jpg" class="image fit"><img src="/images/2year/za/2.jpg" title="很羞耻，竟然翻出了这个。当时贴在了凤凰一个酒吧" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/3.jpg" class="image fit"><img src="/images/2year/za/3.jpg" title="哥哥touch偷拍的原图" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/4.jpg" class="image fit"><img src="/images/2year/za/4.jpg" title="画中仙" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/5.jpg" class="image fit"><img src="/images/2year/za/5.jpg" title="你来找我，乌镇第一次和你出去玩" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/6.jpg" class="image fit"><img src="/images/2year/za/6.jpg" title="龙猫出场" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/7.jpg" class="image fit"><img src="/images/2year/za/7.jpg" title="你说啥" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/8.jpg" class="image fit"><img src="/images/2year/za/8.jpg" title="某个人写的" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/9.jpg" class="image fit"><img src="/images/2year/za/9.jpg" title="画了一百次" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/10.jpg" class="image fit"><img src="/images/2year/za/10.jpg" title="无题" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/11.jpg" class="image fit"><img src="/images/2year/za/11.jpg" title="个记得这个，不翻出来我都忘了" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/12.jpg" class="image fit"><img src="/images/2year/za/12.jpg" title="背景 - 故事" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/13.jpg" class="image fit"><img src="/images/2year/za/13.jpg" title="大美女" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/14.jpg" class="image fit"><img src="/images/2year/za/14.jpg" title="背影" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/15.jpg" class="image fit"><img src="/images/2year/za/15.jpg" title="这个各是叫欧耶" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/16.jpg" class="image fit"><img src="/images/2year/za/16.jpg" title="莫名的帅气" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/17.jpg" class="image fit"><img src="/images/2year/za/17.jpg" title="大美女" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/18.jpg" class="image fit"><img src="/images/2year/za/18.jpg" title="咋个那个萌" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/19.jpg" class="image fit"><img src="/images/2year/za/19.jpg" title="么么三" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/20.jpg" class="image fit"><img src="/images/2year/za/20.jpg" title="带我走系列" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/21.jpg" class="image fit"><img src="/images/2year/za/21.jpg" title="同款" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/za/22.jpg" class="image fit"><img src="/images/2year/za/22.jpg" title="很正经的厨师" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/za/23.jpg" class="image fit"><img src="/images/2year/za/23.jpg" title="你送的礼物都是宝贝" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>

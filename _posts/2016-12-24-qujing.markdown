@@ -1,0 +1,70 @@
+---
+title:  "Qujing"
+subtitle: "家"
+layout : page
+image : images/2year/qujing/1.jpg
+date:   2016-07-08 12:12:12
+---
+<section id="work" class="main style3 primary">
+<div class="content">
+		<header>
+			<h2>曲靖</h2>
+			<p>忘了是怎么开始<br>
+				也许就是对你<br>
+				有一种感觉<br>
+				忽然间发现自己<br>
+				已深深爱上你<br>
+				真的很简单</p>
+		</header>
+		<div class="gallery">
+			<article class="from-left">
+				<a href="/images/2year/qujing/1.jpg" class="image fit"><img src="/images/2year/qujing/1.jpg" title="一张很神奇的合照" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/2.jpg" class="image fit"><img src="/images/2year/qujing/2.jpg" title="妖娆的姿势" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/3.jpg" class="image fit"><img src="/images/2year/qujing/3.jpg" title="蘑菇" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/4.jpg" class="image fit"><img src="/images/2year/qujing/4.jpg" title="看不见我（为何那么萌）" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/5.jpg" class="image fit"><img src="/images/2year/qujing/5.jpg" title="等我想想" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/6.jpg" class="image fit"><img src="/images/2year/qujing/6.jpg" title="香" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/7.jpg" class="image fit"><img src="/images/2year/qujing/7.jpg" title="神枪手" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/8.jpg" class="image fit"><img src="/images/2year/qujing/8.jpg" title="好吃" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/9.jpg" class="image fit"><img src="/images/2year/qujing/9.jpg" title="嘿嘿" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/10.jpg" class="image fit"><img src="/images/2year/qujing/10.jpg" title="好奇girl" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/11.jpg" class="image fit"><img src="/images/2year/qujing/11.jpg" title="展翅" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/12.jpg" class="image fit"><img src="/images/2year/qujing/12.jpg" title="门内门外" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/13.jpg" class="image fit"><img src="/images/2year/qujing/13.jpg" title="你是去找吃的么" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/14.jpg" class="image fit"><img src="/images/2year/qujing/14.jpg" title="花" alt="" /></a>
+			</article>
+			<article class="from-left">
+				<a href="/images/2year/qujing/15.jpg" class="image fit"><img src="/images/2year/qujing/15.jpg" title="带我走系列之曲靖" alt="" /></a>
+			</article>
+			<article class="from-right">
+				<a href="/images/2year/qujing/16.jpg" class="image fit"><img src="/images/2year/qujing/16.jpg" title="再看我" alt="" /></a>
+			</article>
+		</div>
+</div>
+</section>
